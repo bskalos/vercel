@@ -1,0 +1,10 @@
+{
+  "name": "competitor-stock-dashboard",
+  "version": "1.0.0",
+  "description": "Business Intelligence Dashboard for Technology Sector Stock Analysis",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  }
+}
